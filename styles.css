@@ -1,0 +1,15 @@
+body{
+  display: flex;
+  flex-direction: column;
+  padding:128px;
+}
+ul{
+  list-style-type: none;
+  margin:0 0 0 0;
+  padding: 0 0 0 0;
+  display: flex;
+  gap:16px;
+}
+.header{
+  display: flex;
+}
